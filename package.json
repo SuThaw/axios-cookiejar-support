@@ -1,6 +1,6 @@
 {
   "name": "axios-cookiejar-support-react-native",
-  "description": "Add tough-cookie support to axios.",
+  "description": "Add tough-cookie support to axios for react-native",
   "license": "MIT",
   "author": "3846masa",
   "homepage": "https://github.com/3846masa/axios-cookiejar-support#readme",
